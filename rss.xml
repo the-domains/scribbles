@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Scribbles]]></title>
         <description><![CDATA[Scribbles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scribbles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 07:21:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 22:45:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scribbles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Probeersels]]></title>
+            <description><![CDATA[<article><h1>Probeersels</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6fbec9f23e00c509e477556302dfad94edcd5758.jpg"></article>]]></description>
+            <link>https://thegrid.ai/scribbles/probeersels/index.html</link>
+            <guid isPermaLink="false">9fc25a0b-8427-4945-aa09-178781cff522</guid>
+            <pubDate>Thu, 21 Jan 2016 22:45:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First summer photoshoot of 2015]]></title>
             <description><![CDATA[<article><h1>First summer photoshoot of 2015</h1><p>Lovely photoshoot in Denmark</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0919884887aecba5a3e1d057cb3ad12b4c9abbc8.jpg"></article>]]></description>
-            <link>undefinedfirst-summer-photoshoot-of-2015/index.html</link>
+            <link>https://thegrid.ai/scribbles/first-summer-photoshoot-of-2015/index.html</link>
             <guid isPermaLink="false">91b1a90f-4542-469c-bd72-029dda5c9479</guid>
             <pubDate>Thu, 21 Jan 2016 07:20:50 GMT</pubDate>
         </item>

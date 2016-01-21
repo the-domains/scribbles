@@ -1,6 +1,6 @@
 name: Scribbles
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.00685
 typography_spectrum: 0.43326
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3c3c3c'
-    - '#fbfbfb'
-    - '#92a7c4'
-    - '#7689a5'
-    - '#c0d3eb'
+    - '#333333'
+    - '#f2f6f9'
+    - '#d7d6db'
+    - '#7f685d'
+    - '#bdaba7'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.4375

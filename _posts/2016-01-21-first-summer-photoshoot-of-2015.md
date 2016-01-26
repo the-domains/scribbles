@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Lovely photoshoot in Denmark
-datePublished: '2016-01-21T07:20:50.911Z'
-dateModified: '2016-01-21T07:16:55.225Z'
+datePublished: '2016-01-26T07:45:04.023Z'
+dateModified: '2016-01-21T07:23:28.325Z'
 title: First summer photoshoot of 2015
 author: []
+sourcePath: _posts/2016-01-21-first-summer-photoshoot-of-2015.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-21-first-summer-photoshoot-of-2015.md
-published: true
 url: first-summer-photoshoot-of-2015/index.html
 _type: Article
 

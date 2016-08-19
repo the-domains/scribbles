@@ -1,26 +1,22 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: Lovely photoshoot in Denmark
-datePublished: '2016-01-26T07:45:04.023Z'
-dateModified: '2016-01-21T07:23:28.325Z'
-title: First summer photoshoot of 2015
-author: []
+datePublished: '2016-08-19T19:47:15.421Z'
 sourcePath: _posts/2016-01-21-first-summer-photoshoot-of-2015.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-19T19:47:14.645Z'
+title: First summer photoshoot of 2015
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: first-summer-photoshoot-of-2015/index.html
 _type: Article
 
 ---
 # First summer photoshoot of 2015
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32011335-b604-4737-8704-de9c367df28a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c35f533c6d489e9346d0c40a5471267765a70e2b.jpg)

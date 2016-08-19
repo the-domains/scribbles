@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Han Sijmons
+  url: www.han-sijmons.nl
 name: Scribbles
 cta:
   domain: null

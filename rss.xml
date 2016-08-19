@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Scribbles]]></title>
-        <description><![CDATA[Scribbles]]></description>
+        <title><![CDATA[Foto blog]]></title>
+        <description><![CDATA[Foto blog]]></description>
         <link>https://thegrid.ai/scribbles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 09:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 19:47:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scribbles/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First summer photoshoot of 2015]]></title>
-            <description><![CDATA[<article><h1>First summer photoshoot of 2015</h1><p>Lovely photoshoot in Denmark</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c35f533c6d489e9346d0c40a5471267765a70e2b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>First summer photoshoot of 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c35f533c6d489e9346d0c40a5471267765a70e2b.jpg"></article>]]></description>
             <link>https://thegrid.ai/scribbles/first-summer-photoshoot-of-2015/index.html</link>
             <guid isPermaLink="false">91b1a90f-4542-469c-bd72-029dda5c9479</guid>
-            <pubDate>Tue, 26 Jan 2016 07:45:04 GMT</pubDate>
+            <pubDate>Fri, 19 Aug 2016 19:47:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
